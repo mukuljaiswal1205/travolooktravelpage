@@ -9,7 +9,7 @@ body
 .rating
 {  
   position: "#";
-   padding-left: 60px;
+   padding-left: 50px;
    transform: translate(0%,0%) rotateY(180deg);
    display: flex;
 
